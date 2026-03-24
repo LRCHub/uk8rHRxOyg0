@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "IKANAIDE",
+  "base_artist": "Vingo",
+  "createdAt": "2026-03-24T05:45:13.567666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ikanaide - album ver",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Ikanaide_-_album_ver_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "Dima Lancaster feat. Sati Akura",
+      "has_synced": true,
+      "path": "select/02_Ikanaide_Dima_Lancaster_feat._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "Dima Lancaster",
+      "has_synced": true,
+      "path": "select/03_Ikanaide_Dima_Lancaster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ikanaide",
+      "artist": "sohta",
+      "has_synced": true,
+      "path": "select/04_ikanaide_sohta.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ikanaide",
+      "artist": "sohta",
+      "has_synced": true,
+      "path": "select/05_ikanaide_sohta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "RISU",
+      "has_synced": true,
+      "path": "select/06_Ikanaide_RISU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Song 2 You (from \"Victorious\") (feat. Contrapigeon & Ikanaide)",
+      "artist": "Raayo",
+      "has_synced": true,
+      "path": "select/07_Song_2_You_(from__Victorious_)_(feat._Contrapigeon_&_Ikanaide)_Raayo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "Bastiancortesxv",
+      "has_synced": true,
+      "path": "select/08_Ikanaide_Bastiancortesxv.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ikanaide -ALBUM ver.-",
+      "artist": "E ve",
+      "has_synced": true,
+      "path": "select/09_Ikanaide_-ALBUM_ver.-_E_ve.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "Akiko Yano",
+      "has_synced": false,
+      "path": "select/10_Ikanaide_Akiko_Yano.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "André - A!",
+      "has_synced": false,
+      "path": "select/11_Ikanaide_André_-_A!.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ikanaide (feat. Kaai Yuki)",
+      "artist": "sohta",
+      "has_synced": true,
+      "path": "select/12_ikanaide_(feat._Kaai_Yuki)_sohta.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "Zero covers",
+      "has_synced": true,
+      "path": "select/13_Ikanaide_Zero_covers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ikanaide - Russian Cover",
+      "artist": "m19 [kei]",
+      "has_synced": true,
+      "path": "select/14_Ikanaide_-_Russian_Cover_m19_[kei].lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ikanaide (feat. Eve)",
+      "artist": "sohta",
+      "has_synced": true,
+      "path": "select/15_ikanaide_(feat._Eve)_sohta.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ikanaide - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/16_ikanaide_-_Russian_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ikanaide (feat. Kaai Yuki) (Paused)",
+      "artist": "sohta",
+      "has_synced": true,
+      "path": "select/17_ikanaide_(feat._Kaai_Yuki)_(Paused)_sohta.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "Sati Akura, Dima Lancaster",
+      "has_synced": true,
+      "path": "select/18_Ikanaide_Sati_Akura,_Dima_Lancaster.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "Dima Lancaster, Sati Akura",
+      "has_synced": true,
+      "path": "select/19_Ikanaide_Dima_Lancaster,_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Ikanaide",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/20_Ikanaide_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IKANAIDE",
+      "artist": "Vingo",
+      "has_synced": false,
+      "path": "select/pl_01_IKANAIDE_Vingo.txt"
+    }
+  ]
+}
